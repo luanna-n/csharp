@@ -56,7 +56,7 @@ C#
 
 
 
-- **QUESTIONÁRIO 02 **- Iniciando com .NET
+- **QUESTIONÁRIO 02** - Iniciando com .NET
 
 ##### Qual dos itens abaixo é uma opção multiplataforma para edição/criação do meu código fonte em .NET?
 
@@ -100,7 +100,7 @@ dotnet run
 
 
 
-- **QUESTIONÁRIO 03 **- Conhecendo o C#
+- **QUESTIONÁRIO 03** - Conhecendo o C#
 
 ##### Qual dos itens a seguir é parte da estrutura de um programa C#?
 
