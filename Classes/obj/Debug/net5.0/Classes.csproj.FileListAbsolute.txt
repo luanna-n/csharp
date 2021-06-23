@@ -1,0 +1,16 @@
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\bin\Debug\net5.0\Classes.exe
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\bin\Debug\net5.0\Classes.dll
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\bin\Debug\net5.0\ref\Classes.dll
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\bin\Debug\net5.0\Classes.pdb
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\obj\Debug\net5.0\Classes.dll
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\obj\Debug\net5.0\ref\Classes.dll
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\obj\Debug\net5.0\Classes.pdb
+C:\workspace\PROJETOS-DIO\c-sharp\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
