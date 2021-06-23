@@ -144,17 +144,47 @@ Código compilado em Linguagem Intermediária.
 
 
 
+- **QUESTIONÁRIO 04 **- Conhecendo variáveis e instruções
 
+##### O que é correto afirmar sobre variáveis de tipo Referência?
 
+Variáveis de tipos de referência armazenam referências a seus ponteiros direto na memória.
 
+##### Qual destes não é exemplo de um tipo Referência?
 
+enum
 
+##### Qual destes não é exemplo de um tipo Valor?
 
+class
 
+##### Quais destes são instruções de repetição?
 
+for e while
 
+##### Quais destes são instruções condicionais?
 
+if e switch
 
+##### Qual das afirmações não é verdadeira sobre Arrays?
+
+Arrays são tipos de valor.
+
+##### O que é correto afirmar sobre variáveis de tipo Valor?
+
+Variáveis de tipos de valor contêm diretamente seus dados.
+
+##### Quais destes são instruções para tratativa de exceções?
+
+try e catch
+
+##### Qual das inicializações de array a seguir é inválida?
+
+string[] a = new int[] {1, 2, 3};
+
+##### Os índices dos elementos de um array começam a ser contados em:
+
+0
 
 
 
