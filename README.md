@@ -144,7 +144,7 @@ Código compilado em Linguagem Intermediária.
 
 
 
-- **QUESTIONÁRIO 04 **- Conhecendo variáveis e instruções
+- **QUESTIONÁRIO 04** - Conhecendo variáveis e instruções
 
 ##### O que é correto afirmar sobre variáveis de tipo Referência?
 
