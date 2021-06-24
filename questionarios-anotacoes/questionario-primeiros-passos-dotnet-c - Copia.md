@@ -2,11 +2,10 @@
 
 ## **EXERCÍCIOS TEÓRICOS**
 
+<br>
 
+- **QUESTIONÁRIO 01** - O que é .NET? <br>
 
-- **QUESTIONÁRIO 01** - O que é .NET?
-
-  
 
 ##### O que acontece a partir de 2020 com relação ao .NET?
 
@@ -52,13 +51,10 @@ C#
 
 1997
 
+<br>
 
+- **QUESTIONÁRIO 02** - Iniciando com .NET <br>
 
-
-
-- **QUESTIONÁRIO 02** - Iniciando com .NET
-
-  
 
 ##### Qual dos itens abaixo é uma opção multiplataforma para edição/criação do meu código fonte em .NET?
 
@@ -100,13 +96,10 @@ Command Line Interface
 
 dotnet run
 
+<br>
 
+- **QUESTIONÁRIO 03** - Conhecendo o C# <br>
 
-
-
-- **QUESTIONÁRIO 03** - Conhecendo o C#
-
-  
 
 ##### Qual dos itens a seguir é parte da estrutura de um programa C#?
 
@@ -148,14 +141,11 @@ Campos. (Outros: métodos, eventos e propriedades)
 
 Código compilado em Linguagem Intermediária.
 
+<br>
 
-
-
-
-- **QUESTIONÁRIO 04** - Conhecendo variáveis e instruções
+- **QUESTIONÁRIO 04** - Conhecendo variáveis e instruções <br>
 
   
-
 ##### O que é correto afirmar sobre variáveis de tipo Referência?
 
 Variáveis de tipos de referência armazenam referências a seus ponteiros direto na memória.
@@ -196,13 +186,10 @@ string[] a = new int[] {1, 2, 3};
 
 0
 
+<br>
 
+- **QUESTIONÁRIO 05** - Classes e Objetos Essenciais em C# <br>
 
-
-
-- **QUESTIONÁRIO 05** - Classes e Objetos Essenciais em C#
-
-  
 
 ##### Sobre objetos é correto afirmar
 
@@ -262,14 +249,11 @@ Os membros de uma classe podem ser estáticos ou membros da instância.
 
 Os métodos não podem ter um tipo de retorno.
 
+<br>
 
-
-
-
-- **QUESTIONÁRIO 06** - Trabalhando com structs, interfaces e enums
+- **QUESTIONÁRIO 06** - Trabalhando com structs, interfaces e enums <br>
 
   
-
 ##### Qual área da memória que as Classes requerem alocação e as Structs não requerem?
 
 Heap
