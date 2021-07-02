@@ -24,17 +24,17 @@ A média deve ser impressa com dois dígitos após o ponto decimal.
 
 ## Código
 
-using System;
-using System.Collections.Generic;
-using System.Globalization;
+using System; <br>
+using System.Collections.Generic; <br>
+using System.Globalization; <br> <br>
 
-namespace ProgramaParaValidacaoDeNotas
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            double opcaoUsuario = 1.00;
+namespace ProgramaParaValidacaoDeNotas <br>
+{ <br>
+    class Program <br>
+    { <br>
+        static void Main(string[] args) <br>
+        { <br>
+            double opcaoUsuario = 1.00; <br> <br>
 
             do
             {
