@@ -41,7 +41,7 @@ class Desafio { <br>
                 string[] line = Console.ReadLine().Split(" "); <br>
                 string sheldon = line[0].ToLower(); <br>
                 string raj = line[1].ToLower(); <br>
- <br>
+                
                 switch (sheldon) {
                     case "pedra":
                         switch (raj) {
