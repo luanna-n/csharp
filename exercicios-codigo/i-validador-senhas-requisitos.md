@@ -20,13 +20,13 @@ A saída contém uma linha, que pode ser “Senha valida.”, caso a senha tenha
 
 ## Código
 
-using System;
-using System.Text.RegularExpressions;
+using System; <br>
+using System.Text.RegularExpressions; <br> <br>
 
-class Desafio {
-  static void Main() {
-    while (true) {
-      string senha = Console.ReadLine();
+class Desafio { <br>
+  static void Main() { <br>
+    while (true) { <br>
+      string senha = Console.ReadLine(); <br> <br>
 
       if (string.IsNullOrEmpty(senha)) break;
       Regex rx = new Regex("^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])[a-zA-Z0-9]{6,32}$");
