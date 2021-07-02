@@ -31,17 +31,17 @@ Para cada caso de teste deverá ser impressa a mensagem "Caso #**t**: **R**", on
 
 ## Código
 
-using System;
+using System; <br>
 
-class Desafio {
-    static void Main() {
-        int limit = int.Parse(Console.ReadLine());
-            for (int i = 1; i <= limit; i++) {
-                if (i > 100) return;
-                string[] line = Console.ReadLine().Split(" ");
-                string sheldon = line[0].ToLower();
-                string raj = line[1].ToLower();
-
+class Desafio { <br>
+    static void Main() { <br>
+        int limit = int.Parse(Console.ReadLine()); <br>
+            for (int i = 1; i <= limit; i++) { <br>
+                if (i > 100) return; <br>
+                string[] line = Console.ReadLine().Split(" "); <br>
+                string sheldon = line[0].ToLower(); <br>
+                string raj = line[1].ToLower(); <br>
+ <br>
                 switch (sheldon) {
                     case "pedra":
                         switch (raj) {
