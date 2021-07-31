@@ -20,12 +20,15 @@ Imprima o tempo necessário para a moto Y ficar com a quantidade **K** de quilô
 
 ## Código
 
-using System; <br>
+```
+using System;
 
-class Desafio { <br>
-    static void Main() { <br>
-        int quilometros = Int32.Parse(Console.ReadLine()); <br>
-        int minutos = quilometros * 2; <br>
-        Console.WriteLine(minutos + " minutos"); <br>
-    } <br>
-} <br>
+class Desafio { 
+    static void Main() { 
+        int quilometros = Int32.Parse(Console.ReadLine()); 
+        int minutos = quilometros * 2; 
+        Console.WriteLine(minutos + " minutos");
+    } 
+} 
+```
+

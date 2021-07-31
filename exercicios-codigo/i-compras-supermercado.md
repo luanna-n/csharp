@@ -18,15 +18,16 @@ A saída contém **N** linhas, cada uma representando uma lista de compra, sem o
 
 ## Código
 
-using System; <br>
-using System.Collections.Generic; <br>
-using System.Linq; <br>
- <br>
-class ComprasNoSupermercado <br>
-{ <br>
-  public static void Main(string[] args) <br>
-  { <br>
-    int numeroDeTestes = int.Parse(Console.ReadLine()); <br>
+```
+using System;
+using System.Collections.Generic; 
+using System.Linq; 
+
+class ComprasNoSupermercado 
+{
+  public static void Main(string[] args) 
+  { 
+    int numeroDeTestes = int.Parse(Console.ReadLine()); 
 
     for (int i = 0; i < numeroDeTestes; i++) {
       List<string> listDeCompras = new List<String>(Console.ReadLine().Split(' '));
@@ -40,5 +41,8 @@ class ComprasNoSupermercado <br>
       
       Console.WriteLine(" ");
     }
+
   }
 }
+```
+

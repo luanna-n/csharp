@@ -16,22 +16,25 @@ Para cada caso mostre o resultado da divisão com um dígito após o ponto decim
 
 ## Código
 
-using System; <br>
- <br>
-class Desafio { <br>
-    static void Main() { <br>
-        int limit = Int32.Parse(Console.ReadLine()); <br>
-        for (int i = 0; i < limit; i++)  <br>
-        { <br>
-            string[] line = Console.ReadLine().Split(" "); <br>
-            double X = double.Parse(line[0]); <br>
-            double Y = double.Parse(line[1]); <br>
-            if (Y == 0) { <br>
-                Console.WriteLine("divisao impossivel"); <br>
-            } else { <br>
-                double divisao = X / Y;  <br>
-                Console.WriteLine(divisao.ToString("N1")); <br>
-            } <br>
+```
+using System;
+
+class Desafio {
+    static void Main() {
+        int limit = Int32.Parse(Console.ReadLine());
+        for (int i = 0; i < limit; i++) 
+        {
+            string[] line = Console.ReadLine().Split(" ");
+            double X = double.Parse(line[0]);
+            double Y = double.Parse(line[1]);
+            if (Y == 0) { 
+                Console.WriteLine("divisao impossivel");
+            } else {
+                double divisao = X / Y; 
+                Console.WriteLine(divisao.ToString("N1"));
+            }
         }
     }
 }
+```
+

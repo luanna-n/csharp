@@ -22,6 +22,7 @@ Seu programa deve produzir uma única linha com um número racional representand
 
 ## Código
 
+```
 using System;
 
 namespace Introducao{
@@ -30,6 +31,7 @@ namespace Introducao{
     static void Main(string[] args) {
         string[] line = Console.ReadLine().Split(" ");
         
+
         float A = Int32.Parse(line[0]);
         float B = Int32.Parse(line[1]);
         
@@ -40,5 +42,8 @@ namespace Introducao{
         else
           Console.WriteLine(total.ToString("0.00"));
     }
+
   }
 }
+```
+
